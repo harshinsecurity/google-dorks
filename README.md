@@ -11,4 +11,4 @@ Googleaks is a tool which let you uncover the sensitive information about an org
 
 ### Enter domain and get the result
 
-## Live App : https://bugdisclose.github.io/Googleaks/
+## Live App : te
