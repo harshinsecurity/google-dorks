@@ -11,4 +11,4 @@ Googleaks is a tool which let you uncover the sensitive information about an org
 
 ### Enter domain and get the result
 
-## Live App : te
+## Live App : https://harshinsecurity.github.io/google-dorks/
